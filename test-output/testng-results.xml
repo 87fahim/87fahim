@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-25T21:21:46 CDT" name="Default suite" finished-at="2021-06-25T21:21:55 CDT" duration-ms="8175">
+    <groups>
+    </groups>
+    <test started-at="2021-06-25T21:21:46 CDT" name="Default test" finished-at="2021-06-25T21:21:55 CDT" duration-ms="8175">
+      <class name="testNG.FirstTestNG">
+        <test-method is-config="true" signature="readConfig()[pri:0, instance:testNG.FirstTestNG@3d680b5a]" started-at="2021-06-25T21:21:46 CDT" name="readConfig" finished-at="2021-06-25T21:21:46 CDT" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readConfig -->
+        <test-method is-config="true" signature="lauchBrowser()[pri:0, instance:testNG.FirstTestNG@3d680b5a]" started-at="2021-06-25T21:21:46 CDT" name="lauchBrowser" finished-at="2021-06-25T21:21:50 CDT" duration-ms="3418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lauchBrowser -->
+        <test-method signature="validTest()[pri:0, instance:testNG.FirstTestNG@3d680b5a]" started-at="2021-06-25T21:21:50 CDT" name="validTest" finished-at="2021-06-25T21:21:51 CDT" duration-ms="1636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testNG.FirstTestNG@3d680b5a]" started-at="2021-06-25T21:21:51 CDT" name="closeBrowser" finished-at="2021-06-25T21:21:55 CDT" duration-ms="3078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testNG.FirstTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
